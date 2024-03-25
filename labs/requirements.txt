@@ -7,3 +7,10 @@ llama-index-llms-openai
 llama-index-llms-azure-openai
 llama-index-embeddings-azure-openai
 python-dotenv
+langchain-core
+langchain
+langchain-openai
+ipython
+matplotlib
+pycm
+scikit-learn
