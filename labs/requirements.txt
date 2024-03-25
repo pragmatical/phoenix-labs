@@ -1,0 +1,9 @@
+arize-phoenix[evals]
+openai>=1
+llama-index>=0.10.3
+openinference-instrumentation-llama-index>=1.0.0
+llama-index-callbacks-arize-phoenix>=0.1.2
+llama-index-llms-openai
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+python-dotenv
